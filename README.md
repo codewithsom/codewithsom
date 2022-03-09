@@ -1,15 +1,12 @@
-# Hi there, I'm SOMYA RAWAT 👋 
 
-## I'm a FRONT-END DEVELOPER | PYTHON DEVELOPER
+<h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
+<h3 align="center">A Passionate Frontend Developer | Python Developer from India.</h3>
 
 - 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To become a successfull FULL-STACK WEB DEVELOPER 
 - 📫 How to reach me: somya7rawat@gmail.com 
 - ⚡ Fun fact: I love to Code | Travel | Play Guitar / Drums
-
-<h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
-<h3 align="center">A Passionate Frontend Developer | Python Developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
 
