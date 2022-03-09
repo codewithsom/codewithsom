@@ -10,10 +10,10 @@
 
 ## I'm a FRONT-END DEVELOPER | PYTHON DEVELOPER
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about WEB 3.0
-- ⚡ Fun fact: I love to Code and Play Guitar / Drums
+- 🥅 2022 Goals: To become a successfull FULL-STACK WEB DEVELOPER 
+- ⚡ Fun fact: I love to Code | Travel | Play Guitar / Drums
 
 ### Connect with me:
 
@@ -71,7 +71,7 @@
 
 --- -->
 
-### 📕 Latest Blog Posts
+<!-- ### 📕 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
