@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
 <h3 align="center">A Passionate Frontend Developer | Python Developer from India.</h3>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning JavaScript Frameworks (React.JS & Node.JS)
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2022 Goals: To become a successful Full Stack Web-Developer.
 - ⚡ Fun fact: I love to Travel & Play Guitar / Drums.
