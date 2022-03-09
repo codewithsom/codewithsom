@@ -5,6 +5,7 @@
 - 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To become a successfull FULL-STACK WEB DEVELOPER 
+- 📫 How to reach me: somya7rawat@gmail.com 
 - ⚡ Fun fact: I love to Code | Travel | Play Guitar / Drums
 
 ### Connect with me:
