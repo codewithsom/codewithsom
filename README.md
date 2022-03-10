@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
 <h3 align="center">A Passionate Frontend Developer | Python Developer from India.</h3>
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Node.js & React.js
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about WEB 3.0
-- ⚡ Fun fact: I love to Code and Play Guitar / Drums
+- 🥅 2022 Goals: To be a successful FULLSTACK WEB-DEVVELOPER
+- ⚡ Fun fact: I love to TRAVEL and Play Guitar / Drums
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
 
