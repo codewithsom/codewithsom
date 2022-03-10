@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/somyara76555415" target="blank"><img src="https://img.shields.io/twitter/follow/somyara76555415?logo=twitter&style=for-the-badge" alt="somyara76555415" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<p align="left"> <a href="https://dev.to/codewithsom/why-is-python-so-popular-4dnj"></a> </p>
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
