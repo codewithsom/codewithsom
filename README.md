@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+<p align="left"> <a href="https://dev.to/codewithsom/why-is-python-so-popular-4dnj"></a> </p>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
