@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
-<h3 align="center">A Passionate Frontend Developer | Python Developer from India.</h3>
+<h3 align="center">A Passionate Web Developer | Python Developer from India.</h3>
 
 - 🌱 I’m currently learning Node.js & React.js
 - 👯 I’m looking to collaborate with other content creators
