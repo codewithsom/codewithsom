@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Advance JavaScript 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To be a successful FULLSTACK WEB-DEVELOPER
+- 🥅 2022 Goals: To be a successful Data Scientist
 - ⚡ Fun fact: I love to TRAVEL and Play Guitar / Drums
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
