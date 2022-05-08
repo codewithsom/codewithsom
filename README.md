@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
 <h3 align="center">A Passionate Web Developer | Python Developer from India.</h3>
 
-- 🌱 I’m currently learning Advance JavaScript 
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To be a successful Data Scientist
 - ⚡ Fun fact: I love to TRAVEL and Play Guitar / Drums
