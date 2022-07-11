@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To learn relevant skills and get a Job.
+- 🥅 2022 Goals: To learn relevant skills and land a dream Job.
 - ⚡ Fun fact: I love to TRAVEL and Play Guitar / Drums
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
