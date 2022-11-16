@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsom" alt="codewithsom" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/somya-rawat-042196233" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://stackoverflow.com/users/18143532/somya-rawat" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/somya-rawat-042196233" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://stackoverflow.com/users/18143532/somya-rawat" height="40" width="50" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
