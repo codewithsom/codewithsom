@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsom" alt="codewithsom" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/somyara76555415" target="blank"><img src="https://img.shields.io/twitter/follow/somyara76555415?logo=twitter&style=for-the-badge" alt="somyara76555415" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/somya-rawat-042196233" target="blank"><img src="https://img.shields.io/twitter/follow/somyara76555415?logo=twitter&style=for-the-badge" alt="somyara76555415" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
