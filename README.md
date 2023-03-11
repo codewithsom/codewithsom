@@ -6,11 +6,9 @@
 - 🥅 2023 Goals: Participate in open source projects & Stay up-to-date with latest trends and technologies.
 - ⚡ Fun fact: I love to Travel and Play Cricket.
 
-<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=codewithsom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-" alt="codewithsom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
 
-<p align="left"> <a href="[![trophy](https://github-profile-trophy.vercel.app/?username=codewithsom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-"><img src="https://github-profile-trophy.vercel.app/?username=codewithsom" alt="codewithsom" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=codewithsom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://www.linkedin.com/in/somya-rawat-042196233" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://stackoverflow.com/users/18143532/somya-rawat" height="40" width="50" /></a> </p>
 
