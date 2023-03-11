@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
 <h3 align="center">A Passionate Software Development Engineer from India.</h3>
 
-- 🌱 I’m currently learning Full Stack Development 
+- 🌱 I’m currently learning Full Stack Web Development 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To learn relevant skills and land a dream Job.
-- ⚡ Fun fact: I love to TRAVEL and Play Cricket.
+- ⚡ Fun fact: I love to Travel and Play Cricket.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
 
