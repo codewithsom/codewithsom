@@ -6,7 +6,8 @@
 - 🥅 2023 Goals: Participate in open source projects & Stay up-to-date with latest trends and technologies.
 - ⚡ Fun fact: I love to Travel and Play Cricket.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=onedark" alt="codewithsom" /> </p>
+<p align="left"> <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=codewithsom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+" alt="codewithsom" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsom" alt="codewithsom" /></a> </p>
 
