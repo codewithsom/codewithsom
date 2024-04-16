@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
-<h3 align="center">A Passionate Software Development Engineer from India.</h3>
+<h3 align="center">A Passionate IT Project Coordinator from India.</h3>
 
-- 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2023 Goals: Participate in open source projects & Stay up-to-date with latest trends and technologies.
-- ⚡ Fun fact: I love to Travel and Play Cricket.
+- 🌱 Currently expanding expertise in Content Creation and IT Project Management.
+- 👯 Open to collaborating with fellow professionals in the industry.
+- 🥅 Goals for 2024: Contribute to innovative content projects and enhance project coordination skills.
+- ⚡ Fun fact: Passionate about exploring new destinations and a cricket enthusiast.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
 
