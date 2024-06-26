@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
-<h3 align="center">A Passionate IT Project Coordinator from India.</h3>
+<h3 align="center">A Passionate IT Product Manager from India.</h3>
 
 - 🌱 Currently expanding expertise in Content Creation and IT Project Management.
 - 👯 Open to collaborating with fellow professionals in the industry.
