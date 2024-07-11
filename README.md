@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SOMYA RAWAT</h1>
-<h3 align="center">A Passionate Product Manager from India.</h3>
+<h3 align="center">A Passionate Product Development Manager from India.</h3>
 
-- 🌱 Currently expanding expertise in Content Creation and IT Project Management.
-- 👯 Open to collaborating with fellow professionals in the industry.
-- 🥅 Goals for 2024: Contribute to innovative content projects and enhance project coordination skills.
-- ⚡ Fun fact: Passionate about exploring new destinations and a cricket enthusiast.
+- 🌱 Currently expanding expertise in Content Creation and Product Management.
+- 👯 Open to collaborating with fellow professionals in the industry to drive innovation and excellence.
+- 🥅 Goals for 2024: Contribute to innovative content projects, enhance project coordination skills, and achieve professional growth in product development.
+- ⚡ Fun fact: I am passionate about exploring new destinations and a cricket enthusiast.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
 
