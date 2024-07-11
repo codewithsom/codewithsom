@@ -3,7 +3,7 @@
 
 - 🌱 Currently expanding expertise in Content Creation and Product Management.
 - 👯 Open to collaborating with fellow professionals in the industry to drive innovation and excellence.
-- 🥅 Goals for 2024: Contribute to innovative content projects, enhance project coordination skills, and achieve professional growth in product development.
+- 🥅 Goals for 2024: Contribute to innovative content projects, and achieve professional growth in product development.
 - ⚡ Fun fact: I am passionate about exploring new destinations and a cricket enthusiast.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsom&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsom" /> </p>
